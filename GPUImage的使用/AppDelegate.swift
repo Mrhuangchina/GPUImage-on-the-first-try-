@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  GPUImage的使用
+//  GPUImage-Use
 //
 //  Created by MrHuang on 17/8/14.
 //  Copyright © 2017年 Mrhuang. All rights reserved.

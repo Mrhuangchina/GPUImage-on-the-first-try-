@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GPUImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GPUImage其他滤镜.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GPUImage实时画面.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GPUImage的使用.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GPUImage美颜相机.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2597E77C6D3830202BFB48C276629F0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74400B09EF0017920EAEDDD9E5A59599</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B3B7D39B6F9748F50345EEAC633FF68</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F051D78E00154A93C8F8748934FEC2DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F796DDBF6802BDFF98BD10359E0FB3DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
